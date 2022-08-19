@@ -1,1 +1,1 @@
-# Master thesis on top in "Supply chain manamnet in production industries"
+# Master thesis on topic "Supply chain manamnet in production industries"
